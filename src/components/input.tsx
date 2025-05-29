@@ -21,7 +21,7 @@ export default function Input({
           focus:border-gray-500 
           ${addClassName}`}
         type={type}
-        autoComplete="off"  // Desabilita o autocomplete no input
+        autoComplete="off" 
         autoCapitalize="off"
         //value=""
         placeholder={placeholder}
